@@ -1,0 +1,60 @@
+body{
+
+	/*text-align: center;
+	width: 100%;*/
+
+}
+
+#page {
+	text-align: center;
+	width: 100%;
+	
+    
+
+}
+
+.wrap {
+	display: inline-block;
+    width: 250px;
+    height: 150px;
+    padding: 1px;
+    overflow: hidden;
+}
+
+iframe {
+	display: block;
+	width: 1280px;
+	height: 786px;
+	
+/*	zoom: 0.50;*/
+
+-ms-transform: scale(0.20);
+    -moz-transform: scale(0.20);
+    -o-transform: scale(0.20);
+    -webkit-transform: scale(0.20);
+    transform: scale(0.20);
+    
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}
+
+
+/*.frame {
+    width: 1280px;
+    height: 786px;
+    border: 0;
+    -ms-transform: scale(0.25);
+    -moz-transform: scale(0.25);
+    -o-transform: scale(0.25);
+    -webkit-transform: scale(0.25);
+    transform: scale(0.25);
+    
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+}*/
