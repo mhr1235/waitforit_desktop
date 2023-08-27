@@ -12,7 +12,8 @@ let array = ['https://mhr1235.github.io/waitforit/loader1/','https://mhr1235.git
   'https://mhr1235.github.io/waitforit/loader4/','https://mhr1235.github.io/waitforit/loader5/','https://mhr1235.github.io/waitforit/loader6/','https://mhr1235.github.io/waitforit/loader7/',
   'https://mhr1235.github.io/waitforit/loader8/','https://mhr1235.github.io/waitforit/loader9/','https://mhr1235.github.io/waitforit/loader10/','https://mhr1235.github.io/waitforit/loader11/',
   'https://mhr1235.github.io/waitforit/loader12/','https://mhr1235.github.io/waitforit/loader13/','https://mhr1235.github.io/waitforit/loader14/','https://mhr1235.github.io/waitforit/loader15/',
-  'https://mhr1235.github.io/waitforit/loader16/','https://mhr1235.github.io/waitforit/loader17/','https://mhr1235.github.io/waitforit/loader18/','https://mhr1235.github.io/waitforit/loader19/'];
+  'https://mhr1235.github.io/waitforit/loader16/','https://mhr1235.github.io/waitforit/loader17/','https://mhr1235.github.io/waitforit/loader18/','https://mhr1235.github.io/waitforit/loader19/',
+  'https://mhr1235.github.io/waitforit/loader20/'];
     function shuffle(array) {
     let currentIndex = array.length;
     let temporaryValue;
